@@ -1,0 +1,11 @@
+{
+	"id": "latex-headings",
+	"name": "Latex Headings",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Style Headings as LaTeX Visually",
+	"author": "Mayuran Visakan",
+	"authorUrl": "https://github.com/mayurankv",
+	"fundingUrl": "https://www.buymeacoffee.com/mayurankv2",
+	"isDesktopOnly": true
+}
